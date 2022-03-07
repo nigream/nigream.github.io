@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>痴人呓语</title>
-  <icon>http://nigream.github.io/icon.png</icon>
+  <icon>http://nigream.gitee.io/icon.png</icon>
   
-  <link href="http://nigream.github.io/atom.xml" rel="self"/>
+  <link href="http://nigream.gitee.io/atom.xml" rel="self"/>
   
-  <link href="http://nigream.github.io/"/>
-  <updated>2022-03-06T16:32:39.535Z</updated>
-  <id>http://nigream.github.io/</id>
+  <link href="http://nigream.gitee.io/"/>
+  <updated>2022-03-07T16:31:40.230Z</updated>
+  <id>http://nigream.gitee.io/</id>
   
   <author>
     <name>北林</name>
@@ -18,95 +18,19 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://nigream.github.io/2022/03/07/hello-world/"/>
-    <id>http://nigream.github.io/2022/03/07/hello-world/</id>
+    <link href="http://nigream.gitee.io/2022/03/07/hello-world/"/>
+    <id>http://nigream.gitee.io/2022/03/07/hello-world/</id>
     <published>2022-03-06T16:31:35.719Z</published>
-    <updated>2022-03-06T16:32:39.535Z</updated>
+    <updated>2022-03-07T16:31:40.230Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;兔子！！！&lt;br&gt;ceshi&lt;br&gt;dddd&lt;br&gt;hfsishsak &lt;/p&gt;
+&lt;p&gt;Test&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;afvkdsajk&lt;br&gt;&lt;img src=&quot;/2022/03/07/hello-world/cute-rabbits.jpg&quot;&gt;&lt;/p&gt;</summary>
+&lt;p&gt;&lt;img src=&quot;/2022/03/07/hello-world/cute-rabbits.jpg&quot;&gt;&lt;/p&gt;</summary>
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>000Java概述及基础知识</title>
-    <link href="http://nigream.github.io/2022/03/07/java-notes/000Java%E6%A6%82%E8%BF%B0%E5%8F%8A%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
-    <id>http://nigream.github.io/2022/03/07/java-notes/000Java%E6%A6%82%E8%BF%B0%E5%8F%8A%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</id>
-    <published>2022-03-06T16:06:27.925Z</published>
-    <updated>2022-03-06T16:06:27.925Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Java你好&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Java" scheme="http://nigream.github.io/categories/Java/"/>
-    
-    
-    <category term="java" scheme="http://nigream.github.io/tags/java/"/>
-    
-    <category term="笔记" scheme="http://nigream.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>001Java开发环境搭建</title>
-    <link href="http://nigream.github.io/2022/03/07/java-notes/001Java%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
-    <id>http://nigream.github.io/2022/03/07/java-notes/001Java%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</id>
-    <published>2022-03-06T16:06:27.925Z</published>
-    <updated>2022-03-06T16:06:27.926Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;hhhhhh&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Java" scheme="http://nigream.github.io/categories/Java/"/>
-    
-    
-    <category term="笔记" scheme="http://nigream.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="Java" scheme="http://nigream.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>那些在风中驰骋的日子</title>
-    <link href="http://nigream.github.io/2021/10/07/story/%E9%82%A3%E4%BA%9B%E5%9C%A8%E9%A3%8E%E4%B8%AD%E9%A9%B0%E9%AA%8B%E7%9A%84%E6%97%A5%E5%AD%90/"/>
-    <id>http://nigream.github.io/2021/10/07/story/%E9%82%A3%E4%BA%9B%E5%9C%A8%E9%A3%8E%E4%B8%AD%E9%A9%B0%E9%AA%8B%E7%9A%84%E6%97%A5%E5%AD%90/</id>
-    <published>2021-10-07T08:48:21.000Z</published>
-    <updated>2022-03-06T16:31:35.720Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;容颜易老，盛筵难再。我们终将长大，各奔东西，而那些在风中驰骋的日子也终将一去不返。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/2021/10/07/story/%E9%82%A3%E4%BA%9B%E5%9C%A8%E9%A3%8E%E4%B8%AD%E9%A9%B0%E9%AA%8B%E7%9A%84%E6%97%A5%E5%AD%90/%E8%80%81%E7%99%BD.jpg&quot; alt=&quot;老白&quot;&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="故事" scheme="http://nigream.github.io/categories/%E6%95%85%E4%BA%8B/"/>
-    
-    
-    <category term="大学" scheme="http://nigream.github.io/tags/%E5%A4%A7%E5%AD%A6/"/>
-    
-    <category term="校园" scheme="http://nigream.github.io/tags/%E6%A0%A1%E5%9B%AD/"/>
-    
-    <category term="青春" scheme="http://nigream.github.io/tags/%E9%9D%92%E6%98%A5/"/>
-    
-    <category term="电动车" scheme="http://nigream.github.io/tags/%E7%94%B5%E5%8A%A8%E8%BD%A6/"/>
-    
-    <category term="老白" scheme="http://nigream.github.io/tags/%E8%80%81%E7%99%BD/"/>
     
   </entry>
   
